@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://OtelFiyatcom.github.io/handbook-dmc3fy/sitemap.xml
